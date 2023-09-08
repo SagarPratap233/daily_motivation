@@ -1,4 +1,4 @@
-# daily_motivation
+# Daily Motivation
 The project provides the daily motivation we may require going through a hectic day
 
 It consists of two files :
